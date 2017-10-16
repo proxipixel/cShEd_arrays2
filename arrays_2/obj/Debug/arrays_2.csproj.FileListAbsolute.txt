@@ -1,0 +1,6 @@
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_2\arrays_2\bin\Debug\arrays_2.exe.config
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_2\arrays_2\obj\Debug\arrays_2.csprojResolveAssemblyReference.cache
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_2\arrays_2\bin\Debug\arrays_2.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_2\arrays_2\bin\Debug\arrays_2.pdb
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_2\arrays_2\obj\Debug\arrays_2.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_2\arrays_2\obj\Debug\arrays_2.pdb
